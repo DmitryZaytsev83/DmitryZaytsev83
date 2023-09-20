@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @DmitryZaytsev83
-- 👀 I’m interested in TypeScript, Java, Node.js and PHP
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in TypeScript, Node.js
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
